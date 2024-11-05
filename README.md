@@ -1,2 +1,2 @@
 # enscriptdev.github.io
-Official Enscript Website
+Official Enscript organization website
